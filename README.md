@@ -2,10 +2,10 @@
 <h3 align="center"> A systems and biomedical engennering student.
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of engennering at cairo University
+- :school: I am a `senior` at Faculty of engennering at cairo University
 - 📫 How to reach me: **abbas.mohamed1052000@gmail.com**
 - :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Computer Graphics` and `Embedded Systems`.
+- :student: I’m currently learning: `Deep Learning` and `Machine Learning`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1G7e66boqchdq209fXRLK__1ecmRhU47V/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
