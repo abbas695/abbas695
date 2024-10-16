@@ -2,7 +2,7 @@
 <h3 align="center"> A systems and biomedical engennering student.
 
 ## :sassy_man:  About me
-- :school: I am a `senior` at Faculty of engennering at cairo University
+- :school: I am a `Master student` at Department of AI and Data Science at Sejong University ,Seoul,South Korea
 - 📫 How to reach me: **abbas.mohamed1052000@gmail.com**
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Deep Learning` and `Machine Learning`.
