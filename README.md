@@ -6,7 +6,7 @@
 - 📫 How to reach me: **abbas.mohamed1052000@gmail.com**
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Deep Learning` and `Machine Learning`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1lvzQQbLsieL4CFq28bS23rQfQOKGXYBV/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1wPvDfHm4Y5ktoFArHsMBiU3jxlLXaVPe/view?usp=drive_link).
 - :nerd_face: Always `learning new things`
 
 <br>
